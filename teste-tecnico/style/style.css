@@ -1,0 +1,49 @@
+:root {
+    --cor-primaria: black;
+    --cor-secundaria: rgb(33, 106, 155);
+    --cor-terciaria: white;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    box-sizing: border-box;
+    background-color: var(--cor-primaria);
+    color: var(--cor-primaria);
+}
+.navbar-logo{
+    font-size: 1.3em;
+    text-decoration: none;
+    color: var(--cor-primaria);
+    margin-right: 1%;
+    margin-left: 0.5%;
+
+}
+.nav-item{
+    color: var(--cor-primaria);
+    font-weight: 600;
+    text-decoration: none;
+}
+.digitro-foto{
+    width: 10em;
+    margin-left: 0.5%;
+}
+.form-ajustes{
+    display: flex;
+    flex-direction: column;
+    width: 30em;
+}
+.form-data{
+    display:flex;
+    flex-direction: column;
+    width: 9em;
+    margin-top: 2%;    
+}
+.btn-primary{
+    margin-left: 3%;
+}
+.estadocivil{
+    margin-bottom: 1.5%;
+}
