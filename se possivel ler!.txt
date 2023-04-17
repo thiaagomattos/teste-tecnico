@@ -1,0 +1,1 @@
+olá! infelizmente não consegui aplicar o docker no projeto. como sou novo na área, nunca tive contato com o docker e vi que para usar ele eu tinha que aprender durante umas horas, e acabei não tendo tempo pra estudar o docker... o arquivo que mandei é um do código e o outro do banco de dados, usei localhost como host. 
